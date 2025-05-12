@@ -1264,6 +1264,10 @@ footer {
   padding: 2rem;
 }
 
+.plane-special.factsheet {
+  background-color: whitesmoke;
+}
+
 .plane-special h2 {
   color: var(--primary-color);
   font-size: 2rem;

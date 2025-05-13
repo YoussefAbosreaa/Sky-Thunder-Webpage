@@ -598,6 +598,7 @@ footer {
   font-size: 1.1rem;
   line-height: 1.8;
   margin: 1rem 0;
+  text-align: justify;
 }
 
 .participation ul {
@@ -1207,6 +1208,7 @@ footer {
   font-size: 1.1rem;
   line-height: 1.8;
   margin: 1rem 0;
+  text-align: justify;
 }
 
 .sinfo-text ul {

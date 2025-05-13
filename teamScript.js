@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
           title: "Team Leader",
           image: "assets/profiles/honda.jpg",
           achievements: [
-            "Led the team to first place in SUAS 2024",
+            "3 Years of experience",
             "Developed innovative control systems",
             "Published research on autonomous navigation"
           ],
@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
               title: "Communication",
               image: "assets/profiles/wael.jpg",
               achievements: [
+                "3 Years of experience",
                 "Designed high-reliability communication system",
-                "Reduced signal latency by 40%",
                 "Implemented redundant backup systems"
               ],
               members: [
@@ -28,9 +28,8 @@ document.addEventListener("DOMContentLoaded", () => {
                   title: "Communication",
                   image: "assets/profiles/mohannadcp.jpg",
                   achievements: [
-                    "Optimized radio frequency protocols",
-                    "Enhanced data transmission security",
-                    "Developed emergency communication protocols"
+                    "2 Years of experience",
+                    "Enhanced data transmission security"
                   ]
                 },
                 {
@@ -38,9 +37,8 @@ document.addEventListener("DOMContentLoaded", () => {
                   title: "Communication",
                   image: "assets/profiles/ahmed_khaled.jpg",
                   achievements: [
-                    "Optimized radio frequency protocols",
-                    "Enhanced data transmission security",
-                    "Developed emergency communication protocols"
+                    "2 Years of experience",
+                    "Enhanced data transmission security"
                   ]
                 }
               ],
@@ -50,9 +48,8 @@ document.addEventListener("DOMContentLoaded", () => {
               title: "Wiring & Control",
               image: "assets/profiles/yehia.jpg",
               achievements: [
-                "Redesigned power distribution system",
-                "Reduced system weight by 25%",
-                "Implemented new safety protocols"
+                "4 Years of experience",
+                "Reduced system weight by 25%"
               ],
               members: [
                 {
@@ -60,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   title: "Control & Wiring",
                   image: "assets/profiles/she7ry.jpg",
                   achievements: [
-                    "Developed custom PCB designs",
+                    "3 Years of experience",
                     "Improved power efficiency by 30%",
                     "Created wiring documentation system"
                   ]
@@ -70,7 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   title: "Control & Wiring",
                   image: "assets/profiles/sherbeny.jpg",
                   achievements: [
-                    "Implemented new control algorithms",
+                    "2 Years of experience",
                     "Reduced system response time",
                     "Enhanced stability control"
                   ]
@@ -89,19 +86,18 @@ document.addEventListener("DOMContentLoaded", () => {
           title: "Design & Manufacturing",
           image: "assets/profiles/saleh.jpg",
           achievements: [
+            "4 Years of experience",
             "Led structural design innovations",
-            "Reduced aircraft weight by 20%",
             "Improved aerodynamic efficiency"
           ],
           members: [
             {
               name: "Mohammed Emad",
-              title: "Calculations",
+              title: "Sizing & Calculations",
               image: "assets/profiles/moemad.jpg",
               achievements: [
-                "Performed structural analysis",
-                "Optimized component design",
-                "Developed testing procedures"
+                "3 Years of experience",
+                "Performed structural analysis"
               ],
               members: [
                 {
@@ -109,8 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   title: "Mechanics",
                   image: "assets/profiles/eiid.jpg",
                   achievements: [
-                    "Created component designs",
-                    "Implemented testing procedures",
+                    "2 Years of experience",
                     "Improved assembly processes"
                   ]
                 },
@@ -119,9 +114,9 @@ document.addEventListener("DOMContentLoaded", () => {
                   title: "Mechanics",
                   image: "assets/profiles/gadalla.jpg",
                   achievements: [
+                    "2 Years of experience",
                     "Enhanced structural integrity",
-                    "Developed safety features",
-                    "Improved system durability"
+                    "Developed safety features"
                   ]
                 }
               ]
@@ -131,7 +126,7 @@ document.addEventListener("DOMContentLoaded", () => {
               title: "Mechanics",
               image: "assets/profiles/husayn.jpg",
               achievements: [
-                "Led manufacturing process",
+                "4 Years of experience",
                 "Improved build quality",
                 "Developed quality control"
               ],
@@ -141,9 +136,8 @@ document.addEventListener("DOMContentLoaded", () => {
                   title: "Mechanics",
                   image: "assets/profiles/harf2.jpg",
                   achievements: [
-                    "Led manufacturing process",
-                "Improved build quality",
-                "Developed quality control"
+                    "3 Years of experience",
+                    "Led manufacturing process"
                   ]
                 },
                 {
@@ -151,8 +145,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   title: "Mechanics",
                   image: "assets/profiles/noor.jpg",
                   achievements: [
-                    "Developed testing protocols",
-                    "Improved component reliability",
+                    "2 Years of experience",
                     "Enhanced safety measures"
                   ]
                 }
@@ -169,8 +162,8 @@ document.addEventListener("DOMContentLoaded", () => {
           title: "Image Processing & Documentation",
           image: "assets/profiles/talkhan.jpg",
           achievements: [
+            "4 Years of experience",
             "Led documentation initiatives",
-            "Improved team communication",
             "Developed media strategy"
           ]
         },
@@ -180,8 +173,7 @@ document.addEventListener("DOMContentLoaded", () => {
               image: "assets/profiles/sor3a.jpg",
               achievements: [
                 "Developed team website",
-                "Shot POF video",
-                "Documented TDR"
+                "Shot FRR video"
               ]
             }
       ]
@@ -193,9 +185,9 @@ document.addEventListener("DOMContentLoaded", () => {
           title: "Ground Control Station",
           image: "assets/profiles/marwan.jpg",
           achievements: [
-            "Developed real-time monitoring system",
+            "4 Years of experience",
             "Implemented mission planning interface",
-            "Created emergency response protocols"
+            "Safety Pilot"
           ],
           members: [
             {
@@ -203,8 +195,7 @@ document.addEventListener("DOMContentLoaded", () => {
               title: "Ground Control Station",
               image: "assets/profiles/adham.jpg",
               achievements: [
-                "Built telemetry visualization system",
-                "Optimized data processing pipeline",
+                "3 Years of experience",
                 "Developed mission simulation tools"
               ]
             },
@@ -213,8 +204,7 @@ document.addEventListener("DOMContentLoaded", () => {
               title: "Ground Control Station",
               image: "assets/profiles/omaralaa.jpg",
               achievements: [
-                "Created user interface improvements",
-                "Implemented data logging system",
+                "2 Years of experience",
                 "Enhanced mission control features"
               ]
             },
@@ -223,9 +213,8 @@ document.addEventListener("DOMContentLoaded", () => {
               title: "Ground Control Station",
               image: "assets/profiles/galal.jpg",
               achievements: [
-                "Developed system diagnostics tools",
-                "Improved error handling system",
-                "Created backup control interfaces"
+                "2 Years of experience",
+                "Enhanced mission control features"
               ]
             },
             {
@@ -233,8 +222,6 @@ document.addEventListener("DOMContentLoaded", () => {
               title: "Ground Control Station",
               image: "assets/profiles/sossy.jpg",
               achievements: [
-                "Developed system diagnostics tools",
-                "Improved error handling system",
                 "Created backup control interfaces"
               ]
             }
@@ -255,9 +242,7 @@ document.addEventListener("DOMContentLoaded", () => {
               title: "Mapping",
               image: "assets/profiles/s3ody.jpg",
               achievements: [
-                "Developed 3D mapping algorithms",
-                "Enhanced terrain recognition",
-                "Created automated mapping tools"
+                "Enhanced terrain recognition"
               ]
             },
             {
@@ -265,8 +250,8 @@ document.addEventListener("DOMContentLoaded", () => {
               title: "Mapping",
               image: "assets/profiles/siefsameh.jpg",
               achievements: [
+                "2 Years of experience",
                 "Improved mapping resolution",
-                "Developed path planning algorithms",
                 "Created obstacle avoidance system"
               ]
             }
